@@ -1,1 +1,1 @@
-![](output window.png)
+![](./outputWindow.png)
